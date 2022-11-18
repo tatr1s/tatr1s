@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=tatr1s&style=flat-square&color=FF9393" alt=""/>
-   
+
    
    
 </div>
