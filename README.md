@@ -11,18 +11,17 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/jlVObChD6Fb5C/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
-  product owner / manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: interested in frontend developing
+ 
+- 
 
-- :seedling: exploring js & react.js
-
-- :zap: free time is for learning something new
+- <iframe src="https://giphy.com/embed/jlVObChD6Fb5C" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jlVObChD6Fb5C">via GIPHY</a></p>
+- 
 
 
 ---
@@ -30,12 +29,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
