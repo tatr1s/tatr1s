@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/jlVObChD6Fb5C/giphy.gif" width="600" height="300"/>
+  <iframe src="https://giphy.com/embed/jlVObChD6Fb5C"  class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jlVObChD6Fb5C">via GIPHY</a></p> width="600" height="300"/>
 </div>
 
 ---
